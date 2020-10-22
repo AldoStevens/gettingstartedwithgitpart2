@@ -1,0 +1,11 @@
+/home/aldo/Desktop/gettingstartedwithgitpart2/bin/Debug/netcoreapp2.2/gettingstartedwithgitpart2.deps.json
+/home/aldo/Desktop/gettingstartedwithgitpart2/bin/Debug/netcoreapp2.2/gettingstartedwithgitpart2.runtimeconfig.json
+/home/aldo/Desktop/gettingstartedwithgitpart2/bin/Debug/netcoreapp2.2/gettingstartedwithgitpart2.runtimeconfig.dev.json
+/home/aldo/Desktop/gettingstartedwithgitpart2/bin/Debug/netcoreapp2.2/gettingstartedwithgitpart2.dll
+/home/aldo/Desktop/gettingstartedwithgitpart2/bin/Debug/netcoreapp2.2/gettingstartedwithgitpart2.pdb
+/home/aldo/Desktop/gettingstartedwithgitpart2/obj/Debug/netcoreapp2.2/gettingstartedwithgitpart2.csprojAssemblyReference.cache
+/home/aldo/Desktop/gettingstartedwithgitpart2/obj/Debug/netcoreapp2.2/gettingstartedwithgitpart2.csproj.CoreCompileInputs.cache
+/home/aldo/Desktop/gettingstartedwithgitpart2/obj/Debug/netcoreapp2.2/gettingstartedwithgitpart2.AssemblyInfoInputs.cache
+/home/aldo/Desktop/gettingstartedwithgitpart2/obj/Debug/netcoreapp2.2/gettingstartedwithgitpart2.AssemblyInfo.cs
+/home/aldo/Desktop/gettingstartedwithgitpart2/obj/Debug/netcoreapp2.2/gettingstartedwithgitpart2.dll
+/home/aldo/Desktop/gettingstartedwithgitpart2/obj/Debug/netcoreapp2.2/gettingstartedwithgitpart2.pdb
